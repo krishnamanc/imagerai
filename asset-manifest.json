@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/imagerai/static/css/main.524fb2f4.css",
+    "main.js": "/imagerai/static/js/main.f8cc44c9.js",
+    "index.html": "/imagerai/index.html",
+    "main.524fb2f4.css.map": "/imagerai/static/css/main.524fb2f4.css.map",
+    "main.f8cc44c9.js.map": "/imagerai/static/js/main.f8cc44c9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.524fb2f4.css",
+    "static/js/main.f8cc44c9.js"
+  ]
+}
